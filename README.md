@@ -25,9 +25,8 @@ This is my individual project Flipkart Clone, with MERN Stack.
 ![Login](https://user-images.githubusercontent.com/113670900/235449288-a54d3ee2-5637-4efa-9f6a-902eaa527fcb.png)
 
 
-### 4. Add Blogs 
-
-![Addblogs](https://user-images.githubusercontent.com/113670900/232297432-57903c6c-7f1c-4e2a-938f-5e3f07918716.png)
+### 4. Product Detail Page
+![Product](https://user-images.githubusercontent.com/113670900/235449502-b0c179ff-da72-418b-b62c-0a19be6d2ffd.png)
 
 ### 5. My Blogs
 
