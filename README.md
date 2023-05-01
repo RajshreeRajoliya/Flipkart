@@ -28,13 +28,11 @@ This is my individual project Flipkart Clone, with MERN Stack.
 ### 4. Product Detail Page
 ![Product](https://user-images.githubusercontent.com/113670900/235449502-b0c179ff-da72-418b-b62c-0a19be6d2ffd.png)
 
-### 5. My Blogs
+### 5. Cart Page
+![Cart](https://user-images.githubusercontent.com/113670900/235449665-7b3f1696-c51e-4c4b-858d-a964d9923d3d.png)
 
-![myBlogs](https://user-images.githubusercontent.com/113670900/232297547-b090d842-eff3-4d27-a421-7ea391f56692.png)
-
-### 6. All Blogs
-
-![Allblogs](https://user-images.githubusercontent.com/113670900/232297624-793f96cb-5d36-4f8b-8085-15e9e0388c92.png)
+### 6. Payment
+![Payment](https://user-images.githubusercontent.com/113670900/235449835-473876ab-69e6-4504-ae37-ae25bbb520ec.png)
 
 I learned many things .
 >      This project gave me an immense opportunity to learn and grow. I am glad I could finish this project and 
