@@ -16,7 +16,7 @@ This is my individual project Flipkart Clone, with MERN Stack.
 ## Screenshots
 
 ### 1.Home page
-![homepage](https://user-images.githubusercontent.com/113670900/235448673-8c9ed406-2e3d-4379-b21a-841e51275926.png)
+![Home](https://user-images.githubusercontent.com/113670900/235449031-faefc7b2-5a8d-48dc-9556-1aea4299e1ff.png)
 
 ### 2. Sign-up page
 
