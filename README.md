@@ -20,7 +20,9 @@ This is my individual project Flipkart Clone, with MERN Stack.
 
 ### 2. Sign-up page
 
-![signupblogs](https://user-images.githubusercontent.com/113670900/232296512-2cb3dd7d-f38e-49df-bcfd-a9ed6d997c17.png)
+
+![signUp](https://user-images.githubusercontent.com/113670900/235449184-ef351516-2d97-43a2-81d8-72945a03aadd.png)
+
 
 ### 3.Login page
 
