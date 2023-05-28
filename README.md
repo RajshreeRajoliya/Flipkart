@@ -22,8 +22,8 @@ This is my individual project Flipkart Clone, with MERN Stack.
 ![fsign](https://github.com/RajshreeRajoliya/Flipkart/assets/113670900/5aa00e60-4fac-4ef1-9ec6-527618167dab)
 
 ### 3.Login page
-![Login](https://user-images.githubusercontent.com/113670900/235449288-a54d3ee2-5637-4efa-9f6a-902eaa527fcb.png)
 
+![flogin](https://github.com/RajshreeRajoliya/Flipkart/assets/113670900/92803480-3386-4880-bfef-9ba0b2774671)
 
 ### 4. Product Detail Page
 ![Product](https://user-images.githubusercontent.com/113670900/235449502-b0c179ff-da72-418b-b62c-0a19be6d2ffd.png)
